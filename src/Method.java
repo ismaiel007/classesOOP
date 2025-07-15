@@ -50,6 +50,7 @@ public static void main(String[] args){
     public static void main(String[] args){
         Method myObj = new Method(5);
         System.out.println("Value of x = " + myObj.x);
+        System.out.println("Commit atma");
     }
 
 
